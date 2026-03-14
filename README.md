@@ -1,7 +1,7 @@
-H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR NAME: RESHMA R</H3>
+<H3>ENTER YOUR REGISTER NO. 212224040274</H3>
 <H3>EX. NO.5</H3>
-<H3>DATE:</H3>
+<H3>DATE: 14.03.2026</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
@@ -35,11 +35,19 @@ Step 7: Plot the Input space and Hidden space of RBF NN for XOR classification.
 
 <H3>PROGRAM:</H3>
 
-Insert  your code here
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/84e17a60-b427-47af-b015-76123f316fcc" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0fac9e6e-13cd-48c3-aa19-4f8a04055ff4" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/57047bd6-24c8-4baf-9564-1eb29d9081d3" />
+
 
 <H3>OUTPUT:</H3>
 
-Show your code here
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b0007007-fe43-4f4c-b255-670740b351ff" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/50eb8579-1bde-45a1-8c48-43845ebae403" />
+
 
 <H3>Result:</H3>
 Thus , a Radial Basis Function Neural Network is implemented to classify XOR data.
